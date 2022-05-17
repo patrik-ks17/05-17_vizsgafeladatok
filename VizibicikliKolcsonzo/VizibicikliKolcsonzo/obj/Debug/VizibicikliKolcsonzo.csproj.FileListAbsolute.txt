@@ -1,0 +1,8 @@
+C:\Users\szereloi\OneDrive\School\works\visual-studio\munkak\VizibicikliKolcsonzo\VizibicikliKolcsonzo\obj\Debug\VizibicikliKolcsonzo.csproj.AssemblyReference.cache
+C:\Users\szereloi\OneDrive\School\works\visual-studio\munkak\VizibicikliKolcsonzo\VizibicikliKolcsonzo\obj\Debug\VizibicikliKolcsonzo.csproj.SuggestedBindingRedirects.cache
+C:\Users\szereloi\OneDrive\School\works\visual-studio\munkak\VizibicikliKolcsonzo\VizibicikliKolcsonzo\obj\Debug\VizibicikliKolcsonzo.csproj.CoreCompileInputs.cache
+C:\Users\szereloi\OneDrive\School\works\visual-studio\munkak\VizibicikliKolcsonzo\VizibicikliKolcsonzo\bin\Debug\VizibicikliKolcsonzo.exe.config
+C:\Users\szereloi\OneDrive\School\works\visual-studio\munkak\VizibicikliKolcsonzo\VizibicikliKolcsonzo\bin\Debug\VizibicikliKolcsonzo.exe
+C:\Users\szereloi\OneDrive\School\works\visual-studio\munkak\VizibicikliKolcsonzo\VizibicikliKolcsonzo\bin\Debug\VizibicikliKolcsonzo.pdb
+C:\Users\szereloi\OneDrive\School\works\visual-studio\munkak\VizibicikliKolcsonzo\VizibicikliKolcsonzo\obj\Debug\VizibicikliKolcsonzo.exe
+C:\Users\szereloi\OneDrive\School\works\visual-studio\munkak\VizibicikliKolcsonzo\VizibicikliKolcsonzo\obj\Debug\VizibicikliKolcsonzo.pdb
