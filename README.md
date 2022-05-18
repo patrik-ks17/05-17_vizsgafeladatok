@@ -2,13 +2,13 @@
 
 ## 1.1 verzio fix
 
-//8. feladat
+//8. feladat\
             double napi_bev = 0;\
             double osszes_perc = 0;\
             List<double> percek = new List<double>();\
             for (int i = 0; i < ViziB.Count; i++)\
             {\
-                percek.Add(Math.Ceiling(ViziB[i].hozott.TotalMinutes - ViziB[i].elvitt.TotalMinutes));\
+               * percek.Add(Math.Ceiling(ViziB[i].hozott.TotalMinutes - ViziB[i].elvitt.TotalMinutes));\
                 osszes_perc += (Math.Ceiling(percek[i] / 30));\
             }\
             napi_bev = osszes_perc * 2400;\
